@@ -1,6 +1,1 @@
-success!
-<<<<<<< HEAD
-wei!
-=======
-hmm!
->>>>>>> 853b4dbfdfbcf4df310f4e790ac306155f842ebc
+gui kai en
